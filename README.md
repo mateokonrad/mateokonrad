@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mateokonrad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I'm interested in Computer Science
+- 🌱 I’m currently learning Python
 - 📫 How to reach me mkwabinski@gmail.com
 
 <!---
